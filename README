@@ -1,21 +1,37 @@
-# 🎮 Driss Moussaoui - Professional Portfolio
+<div align="center">
+  <h1>🎮 Driss Moussaoui - Professional Portfolio</h1>
+  <p><i>Gameplay Programmer | Systems Architect | Game Developer</i></p>
+  
+  [![Live Deployment](https://img.shields.io/badge/Live_Deployment-Online-success?style=for-the-badge&logo=vercel)](https://build-master--msd-ares.replit.app/)
+</div>
 
-> **Live Deployment:** https://portfolio-msd-blue.vercel.app/
+---
 
 ## 🚀 Overview
 This repository contains the source code for my professional portfolio. It is engineered to showcase my expertise in **Gameplay Programming, Systems Architecture, and Game Development**. The interface is designed with a tactile, retro-inspired aesthetic that reflects my passion for immersive digital experiences.
 
 ## 🛠️ Technical Stack
 Built with a focus on performance, modularity, and modern web standards:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
+</div>
+
+<br>
+
 - **Core:** React 18 + TypeScript
 - **Build Tool:** Vite (for rapid HMR and optimized bundling)
 - **Styling:** Tailwind CSS (utility-first, responsive design)
 - **Animations:** Framer Motion (fluid, hardware-accelerated transitions)
 - **Icons:** Lucide React & React Icons
-- **Deployment:** Vercel CI/CD
+- **Deployment:** Replit / Vercel CI
 
 ## 🎯 Architecture & Features
-- **Dynamic Project Showcase:** Interactive, scalable modal system displaying detailed intel, technical features, and gameplay footage for projects like *Prisma*, *House of Lies*, and *Recording 2:17*.
+- **Dynamic Project Showcase:** Interactive, scalable modal system displaying detailed intel, technical features, and gameplay footage for projects like *House of Lies*, *Prisma*, and *Recording 2:17*.
 - **Clean Component Structure:** Highly modular architecture ensuring the codebase remains organized and easily maintainable.
 - **Performance Optimized:** Lazy loading of high-resolution assets and optimized dependency management.
 - **Responsive UI/UX:** Fully adaptable interface that maintains fidelity across desktop, tablet, and mobile displays.
