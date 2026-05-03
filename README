@@ -1,0 +1,28 @@
+# 🎮 Driss Moussaoui - Professional Portfolio
+
+> **Live Deployment:** https://portfolio-msd-blue.vercel.app/
+
+## 🚀 Overview
+This repository contains the source code for my professional portfolio. It is engineered to showcase my expertise in **Gameplay Programming, Systems Architecture, and Game Development**. The interface is designed with a tactile, retro-inspired aesthetic that reflects my passion for immersive digital experiences.
+
+## 🛠️ Technical Stack
+Built with a focus on performance, modularity, and modern web standards:
+- **Core:** React 18 + TypeScript
+- **Build Tool:** Vite (for rapid HMR and optimized bundling)
+- **Styling:** Tailwind CSS (utility-first, responsive design)
+- **Animations:** Framer Motion (fluid, hardware-accelerated transitions)
+- **Icons:** Lucide React & React Icons
+- **Deployment:** Vercel CI/CD
+
+## 🎯 Architecture & Features
+- **Dynamic Project Showcase:** Interactive, scalable modal system displaying detailed intel, technical features, and gameplay footage for projects like *Prisma*, *House of Lies*, and *Recording 2:17*.
+- **Clean Component Structure:** Highly modular architecture ensuring the codebase remains organized and easily maintainable.
+- **Performance Optimized:** Lazy loading of high-resolution assets and optimized dependency management.
+- **Responsive UI/UX:** Fully adaptable interface that maintains fidelity across desktop, tablet, and mobile displays.
+
+## 💻 Local Initialization
+To run this environment locally, follow these execution steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/MSDcoding/Portfolio-MSD.git](https://github.com/MSDcoding/Portfolio-MSD.git)
